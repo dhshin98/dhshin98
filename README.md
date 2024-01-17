@@ -4,7 +4,7 @@
 
 ##### ✔️ Sogang University
 ###### 📍 Mapo, Seoul
-###### Computer Science and Engineering (2018.03 ~ / Bachelor)
+###### Computer Science and Engineering (2018.03 ~ 2024.02 / Bachelor)
 
 
 ##### ✔️ Marquette University
@@ -14,7 +14,18 @@
 <br/>
 
 ### 🛠️ Technology Stack
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
+
+ <p>
+  <img src="https://img.shields.io/badge/Html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=ffffff"/>&nbsp  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-squaree&logo=TypeScript&logoColor=ffffff"/>&nbsp  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>&nbsp  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>&nbsp  
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
+  <br/>
+  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledComponents&logoColor=ffffff"/>&nbsp 
+</p>
 
 <br/>
 
